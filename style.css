@@ -227,12 +227,10 @@ html, body{
 }
 
 #subscribe{
-    color: white;
     padding-bottom: 10vw;
     background-color: black;
     padding: 50px 30px;
-    cursor: pointer;
-    text-decoration: none;
+    color: white;
 }
 
 #subscribe h5{
@@ -244,6 +242,14 @@ html, body{
     text-transform: uppercase;
     font-size: 14px;
     margin-top: 10px;
+}
+
+#subscribe a{
+    padding-bottom: 10vw;
+    background-color: black;
+    padding: 50px 30px;
+    color: white;
+    text-decoration: none;
 }
 
 #footer{
