@@ -231,6 +231,7 @@ html, body{
     padding-bottom: 10vw;
     background-color: black;
     padding: 50px 30px;
+    cursor: pointer;
 }
 
 #subscribe h5{
